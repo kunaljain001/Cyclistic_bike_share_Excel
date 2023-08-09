@@ -1,4 +1,6 @@
 # Cyclistic bike sharing Dataset - Excel Project 
+![Alt text](https://github.com/kunaljain001/Cyclistic_bike_share_Excel/blob/main/Cyclist%20Dashboard.jpg)
+
 
 ## About
 This Excel project entails the analysis of bike sharing details of Chicago region with having 343006 records. The dataset has undergone thorough examination to identify and address any occurrences of null values and duplicate entries. Furthermore, a comprehensive cleaning process has been executed, involving the renaming of values and columns to enhance comprehension. Subsequently, data manipulation techniques have been employed, resulting in the conversion of data for streamlined analysis. To facilitate data exploration, pivot tables have been meticulously constructed, furnishing valuable insights. Additionally, graphical representations have been generated to visually depict the data, while a meticulously designed dashboard has been crafted to effectively present the findings and foster a comprehensive understanding among stakeholders.
